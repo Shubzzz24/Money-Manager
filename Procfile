@@ -1,1 +1,1 @@
-web: gunicorn Money_Manager: app --log-file -
+web: gunicorn Money_Manager: app 
